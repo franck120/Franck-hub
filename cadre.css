@@ -1,0 +1,39 @@
+body{
+    background: #d6e1f0;
+    font-size: 15px;
+    font-family:Outfit;
+    width: 1440px;
+}
+section{
+    padding-top: 280px;
+    padding-left: 10px;
+    padding-bottom: 200px;
+    background: white;
+    height:0px;
+    width: 290px;
+    margin-left: 520px;
+    margin-top: 80px;
+    border-radius: 6%;
+}
+img{
+    position: absolute;
+    height:280px;
+    width: 280px;
+    margin-left: 530px;
+    margin-top: 10px;
+    border-radius: 6%;
+}
+div{
+    display: flex;
+    text-align: center;
+}
+.one{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.two{
+    margin-right: 10px;
+    font-weight: 200;
+}
